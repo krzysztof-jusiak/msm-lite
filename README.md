@@ -1,4 +1,4 @@
-#Experimental Boost.SML (formerly known as Boost.MSM-lite)
+#Experimental Boost.SML (formerly called Boost.MSM-lite)
 
 Github: [https://github.com/boost-experimental/sml](https://github.com/boost-experimental/sml)
 
